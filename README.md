@@ -1,1 +1,3 @@
 # FreshPetals
+FreshPetals - Online Flower Shop
+This is a simple online flower shop built with HTML, CSS, and JavaScript. FreshPetals offers users the ability to browse and purchase a variety of fresh flowers, including roses, tulips, sunflowers, orchids, and more. The website features a responsive layout with product cards, an interactive shopping cart, and an easy checkout process. The project uses Bootstrap for styling and includes dynamic functionality for adding items to the cart. This project aims to provide a user-friendly, elegant online experience for purchasing flowers for any occasion.
